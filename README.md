@@ -10,7 +10,7 @@ I have an extensive background in DeFi, cryptocurrency, and blockchain technolog
 Currently, I'm building Octavia, the world's first semi-autonomous AI assistant, at Octavia Labs. It's ambitious and challenging, but we're already further ahead than anyone else in the industry.
 
 ## Octavia Labs
-![Octavia Labs](/images/labs.png)
+![Octavia Labs](/images/labs1.png)
 
 Octavia Labs is a diverse team I lead, focused on building the next generation of AI assistants to power the future of Web3 and the Internet. With Octavia, we aim to simplify the complex world of blockchain and cryptocurrency, making it more accessible and easy to navigate.
 
