@@ -18,6 +18,11 @@ Octavia is designed to enhance productivity, conduct extensive research, and acc
 
 You can learn more about Octavia on our [official website](https://octavia.one), and take a moment to visit our [Github Repository](https://github.com/Octavia-Labs).
 
+
+## Octavia
+![Meet Octavia your web3 assistant](/images/meet.png)
+Octavia is the groundbreaking semi-autonomous AI assistant! Join the Octavia community and explore this cutting-edge project at [t.me/octaviatoken](https://t.me/octaviatoken) or [discord.gg/octavia](https://discord.gg/octavia). Try out the cutting-edge AI assistant we're building!
+
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/luke-martinez-octavia-labs)
 - [Twitter](https://twitter.com/lukebogged)
